@@ -1,5 +1,5 @@
 # Job Terms
-The following are a list of terms I gathered from Indeed software job postings a la: https://news.ycombinator.com/item?id=16552016
+*The following are a list of tech terms, loosely organized and in no particular order, I gathered from Indeed software job postings as inspired by:* https://news.ycombinator.com/item?id=16552016
 
 ## Python
 * Flask - https://en.wikipedia.org/wiki/Flask_(web_framework)
