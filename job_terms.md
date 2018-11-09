@@ -137,44 +137,47 @@ https://github.com/jasmine/jasmine
 https://www.baeldung.com/easymock
 * Selenium - https://www.seleniumhq.org/
 * Cucumber - https://cucumber.io/
+* JProbe - http://www.javaperformancetuning.com/tools/jprobe/
+
+## Process
+* Rational Unified Process (RUP) - https://en.wikipedia.org/wiki/Rational_Unified_Process
 
 ## Java
-* JAX-WS JAXB
-* JPA Spring Data
-* Google Guava
-* Spring Framework
-* Spring Security
-* Spring Web Services
-* SLF4J
-* Spring Core
-* Spring Security
-* Spring Batch
-* Spring MVC
-* Hibernate
-* JPA
-* JMS
+* JAX-WS - https://en.wikipedia.org/wiki/Java_API_for_XML_Web_Services
+* JAXB - https://en.wikipedia.org/wiki/Java_Architecture_for_XML_Binding
+* JPA - https://en.wikipedia.org/wiki/Java_Persistence_API
+* Spring Data - http://spring.io/projects/spring-data
+* Google Guava - https://opensource.google.com/projects/guava
+* Spring Framework/Core - https://en.wikipedia.org/wiki/Spring_Framework
+* Spring Security - https://en.wikipedia.org/wiki/Spring_Security
+* Spring Web Services - https://spring.io/projects/spring-ws
+* SLF4J - https://www.slf4j.org/
+* Spring Batch - https://en.wikipedia.org/wiki/Spring_Batch
+* Spring MVC - https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html
+* Hibernate - https://en.wikipedia.org/wiki/Hibernate_(framework)
+* JMS - https://en.wikipedia.org/wiki/Java_Message_Service
+* Struts - https://struts.apache.org/birdseye.html
+* Java Server Faces (JSF) - https://en.wikipedia.org/wiki/JavaServer_Faces
+* Drools Business Rules Engine - https://en.wikipedia.org/wiki/Drools
+* Java data structures - https://www.geeksforgeeks.org/data-structures/
+* caching - https://crunchify.com/how-to-create-a-simple-in-memory-cache-in-java-lightweight-cache/
+* multithreading - https://www.tutorialspoint.com/java/java_multithreading.htm
+* messaging - https://www.oracle.com/technetwork/articles/java/introjms-1577110.html
+* asynchronous communication - https://www.foreach.be/blog/parallel-and-asynchronous-programming-in-java-8
+* JEE MVC session facade - https://www.oracle.com/technetwork/java/sessionfacade-141285.html
+* singleton - https://www.baeldung.com/java-singleton
+* DAO - https://en.wikipedia.org/wiki/Data_access_object
+
+## IDEs
+* Eclipse
+* IntelliJ
+
+## Servlet Containers
 * Tomcat
 * Glassfish
 * WebLogic
 * JBoss
 * Jetty
-* Struts
-* Java Server Faces JSF
-* Rational Unified Process RUP
-* JProbe
-* Drools Business Rules Engine
-* Java data structures
-* caching
-* multithreading
-* messaging
-* asynchronous communication
-* JEE MVC session facade
-* singleton
-* DAO
-* JMS
-* Eclipse
-* IntelliJ
-
 
 ## BigData/Clusters/Distributed Compute
 * Spark
