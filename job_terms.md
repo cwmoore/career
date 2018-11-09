@@ -36,10 +36,9 @@ The following are a list of terms I gathered from Indeed job postings a la: http
 * ECC - https://en.wikipedia.org/wiki/Elliptic-curve_cryptography
 * PGP - https://en.wikipedia.org/wiki/Pretty_Good_Privacy
 * blockchain - https://en.wikipedia.org/wiki/Blockchain
-* ADAL
-* Firebase
-* OAuth token lifecycle
-* OpenID Connect
+* ADAL - https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-authentication-libraries
+* OAuth token lifecycle - https://www.oauth.com/oauth2-servers/access-tokens/access-token-lifetime/
+* OpenID Connect - https://openid.net/connect/
 
 ## Application Perfomance Management (APM)
 * Dynatrace - https://en.wikipedia.org/wiki/Dynatrace
@@ -53,6 +52,7 @@ The following are a list of terms I gathered from Indeed job postings a la: http
 * PostgreSQL - https://www.postgresql.org/
 * Cassandra DB - https://en.wikipedia.org/wiki/Apache_Cassandra
 * Terracotta - https://en.wikipedia.org/wiki/Terracotta,_Inc.
+* Prometheus - https://prometheus.io/
 
 ## Machine Learning
 * MXNet - https://mxnet.apache.org/
@@ -112,24 +112,31 @@ https://en.wikipedia.org/wiki/Webpack
 * Puppet - https://en.wikipedia.org/wiki/Puppet_(software)
 * Chef - https://en.wikipedia.org/wiki/Chef_(software)
 
-## Version Control Systems
-* git
-* Subversion
-* Nexus
-* Mercurial
+## Platforms
+* Firebase - https://firebase.google.com/
 
-## Automated Testing
-* Mocha
-* Jasmine
-* Selenium
-* Cucumber
-* Karma
-* Prometheus
-* Grafana
-* Jest
-* Enzyme
-* Junit
-* EasyMock
+## Version Control Systems
+https://en.wikipedia.org/wiki/Comparison_of_version_control_software
+* git - https://en.wikipedia.org/wiki/Git  
+https://git-scm.com/
+* Subversion - https://en.wikipedia.org/wiki/Apache_Subversion
+* Nexus - https://www.sonatype.com/nexus-repository-sonatype
+* Mercurial - https://en.wikipedia.org/wiki/Mercurial  
+https://www.mercurial-scm.org/
+
+## Automated Testing/Monitoring/Etc.
+* Mocha - https://mochajs.org/
+* Jasmine - https://en.wikipedia.org/wiki/Jasmine_(JavaScript_testing_framework)  
+https://github.com/jasmine/jasmine
+* Karma - http://karma-runner.github.io/3.0/intro/how-it-works.html
+* Grafana - https://grafana.com/
+* Jest - https://jestjs.io/
+* Enzyme - https://github.com/airbnb/enzyme
+* Junit - https://junit.org/junit5/
+* EasyMock - http://easymock.org/  
+https://www.baeldung.com/easymock
+* Selenium - https://www.seleniumhq.org/
+* Cucumber - https://cucumber.io/
 
 ## Java
 * JAX-WS JAXB
