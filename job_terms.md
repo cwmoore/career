@@ -44,10 +44,11 @@ The following are a list of terms I gathered from Indeed job postings a la: http
 * Single Sign-on - https://en.wikipedia.org/wiki/Single_sign-on
 * Active Directory - https://en.wikipedia.org/wiki/Active_Directory
 * ADAL - https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-authentication-libraries
-* XSS
-* SQL Injection
-* CORS
-* CSRF
+* XSS - https://en.wikipedia.org/wiki/Cross-site_scripting
+* SQL Injection - https://en.wikipedia.org/wiki/SQL_injection
+* CORS - https://en.wikipedia.org/wiki/Cross-origin_resource_sharing
+* CSRF - https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)  
+https://en.wikipedia.org/wiki/Cross-site_request_forgery
 
 ## Application Perfomance Management (APM)
 * Dynatrace - https://en.wikipedia.org/wiki/Dynatrace
@@ -152,11 +153,11 @@ https://www.baeldung.com/easymock
 
 ## Process
 * Rational Unified Process (RUP) - https://en.wikipedia.org/wiki/Rational_Unified_Process
-* Scrum
-* Kanban
-* Lean
-* Extreme Programming (XP)
-* Feature driven development (FDD)
+* Scrum - https://www.scrumguides.org/scrum-guide.html
+* Kanban - https://en.wikipedia.org/wiki/Kanban
+* Lean - https://en.wikipedia.org/wiki/Lean_software_development
+* Extreme Programming (XP) - https://en.wikipedia.org/wiki/Extreme_programming
+* Feature driven development (FDD) - https://en.wikipedia.org/wiki/Feature-driven_development
 
 ## Java
 * Java EE - https://en.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition
