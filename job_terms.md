@@ -65,6 +65,7 @@ https://en.wikipedia.org/wiki/Cross-site_request_forgery
 * Cassandra DB - https://en.wikipedia.org/wiki/Apache_Cassandra
 * Terracotta - https://en.wikipedia.org/wiki/Terracotta,_Inc.
 * Prometheus - https://prometheus.io/
+* MarkLogic - https://en.wikipedia.org/wiki/MarkLogic
 
 ## Machine Learning
 * MXNet - https://mxnet.apache.org/
@@ -233,17 +234,19 @@ https://en.wikipedia.org/wiki/Apache_Hadoop
 
 
 ## Business Intelligence
-* Alteryx
-* Tableau
-* Oracle R
-* SAP Business Objects
-* MS SharePoint
+* Alteryx - https://en.wikipedia.org/wiki/Alteryx
+* Tableau - https://www.tableau.com/
+* Oracle R - https://blogs.oracle.com/r/what-is-r
+* SAP Business Objects - https://www.sap.com/products/bi-platform.html
+* SAS - https://en.wikipedia.org/wiki/SAS_(software)
+
+## Collaboration
+* MS SharePoint - https://en.wikipedia.org/wiki/SharePoint
 
 ## XML
-* SOAP
-* XQuery
-* XPath
-* MarkLogic
+* SOAP - https://en.wikipedia.org/wiki/SOAP
+* XQuery - https://en.wikipedia.org/wiki/XQuery
+* XPath - https://en.wikipedia.org/wiki/XPath
 
 ## Other
 CAD PLM integration
