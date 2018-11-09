@@ -11,6 +11,7 @@
 * ZeroMQ - https://en.wikipedia.org/wiki/ZeroMQ
 * Apache ActiveMQ - https://en.wikipedia.org/wiki/Apache_ActiveMQ
 * Apache Kafka - https://en.wikipedia.org/wiki/Apache_Kafka
+* Celery - http://www.celeryproject.org/
 
 ## Amazon
 * EC2 - Elastic Compute Cloud -  https://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud
@@ -27,6 +28,7 @@
 * Logstash - https://www.elastic.co/products/logstash
 * Kibana - https://www.elastic.co/products/kibana
 * Redshift - https://aws.amazon.com/redshift/
+* SQS - https://en.wikipedia.org/wiki/Amazon_Simple_Queue_Service
 
 ## Search
 * SOLR - http://lucene.apache.org/solr/
@@ -51,6 +53,9 @@
 * CORS - https://en.wikipedia.org/wiki/Cross-origin_resource_sharing
 * CSRF - https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF)  
 https://en.wikipedia.org/wiki/Cross-site_request_forgery
+* Shiro - https://en.wikipedia.org/wiki/Apache_Shiro
+* OWASP Top Ten - https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project  
+https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf
 
 ## Application Perfomance Management (APM)
 * Dynatrace - https://en.wikipedia.org/wiki/Dynatrace
@@ -66,6 +71,7 @@ https://en.wikipedia.org/wiki/Cross-site_request_forgery
 * Terracotta - https://en.wikipedia.org/wiki/Terracotta,_Inc.
 * Prometheus - https://prometheus.io/
 * MarkLogic - https://en.wikipedia.org/wiki/MarkLogic
+* IndexedDB - https://developers.google.com/web/ilt/pwa/working-with-indexeddb
 
 ## Machine Learning
 * MXNet - https://mxnet.apache.org/
@@ -93,6 +99,9 @@ https://en.wikipedia.org/wiki/Cross-site_request_forgery
 * async/await
 * WASM - https://en.wikipedia.org/wiki/WebAssembly
 * MEAN Stack - MongoDB, Express.js, Angular, Node.js
+* Relay - https://facebook.github.io/relay/
+* D3 - https://d3js.org/
+* PM2 - http://pm2.keymetrics.io/
 
 ## Web UI
 * Bootstrap or Foundations - https://www.upwork.com/hiring/development/bootstrap-vs-foundation-which-framework-is-right-for-you/
@@ -260,7 +269,7 @@ https://en.wikipedia.org/wiki/Apache_Hadoop
 * ZigBee
 * Z-Wave
 
-## Business Modeling Notations
+## Business Modeling
 * BPMN - https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation
 * DMN - https://en.wikipedia.org/wiki/Decision_Model_and_Notation
 * CMMN - https://en.wikipedia.org/wiki/CMMN
@@ -269,66 +278,53 @@ https://en.wikipedia.org/wiki/Activiti_(software)
 * Bonitasoft - https://www.bonitasoft.com/  
 https://en.wikipedia.org/wiki/Bonita_BPM
 * http://www.thoughtfulprogrammer.com/2010/05/tale-of-two-open-bpm-approaches.html
-* PDLC - product development lifecycle
-* SDLC - software development lifecycle
-* BPM
+* PDLC - https://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing)
+* SDLC - https://en.wikipedia.org/wiki/Software_development_process
+* BPM - https://en.wikipedia.org/wiki/Business_process_management  
+https://en.wikipedia.org/wiki/Business_process_modeling
+
+## GIS/Geospatial
+* GeoSpatial - https://www.gislounge.com/difference-gis-geospatial/
+* OGC - http://www.opengeospatial.org/
+* WMS - https://en.wikipedia.org/wiki/Web_Map_Service
+* WMTS - https://en.wikipedia.org/wiki/Web_Map_Tile_Service
+* WFS - https://en.wikipedia.org/wiki/Web_Feature_Service
+* SOS - https://en.wikipedia.org/wiki/Sensor_Observation_Service
+
+
+## 3D
+* OpenGL - https://en.wikipedia.org/wiki/OpenGL
+* Direct3D - https://en.wikipedia.org/wiki/Direct3D
+* PS4/GNM - https://en.wikipedia.org/wiki/PlayStation_4_system_software#System
+* Vulkan API - https://en.wikipedia.org/wiki/Vulkan_(API)
+* HLSL - https://docs.microsoft.com/en-us/windows/desktop/direct3dhlsl/dx-graphics-hlsl
+* Cg - https://en.wikipedia.org/wiki/Cg_(programming_language)
+* GLSL - https://en.wikipedia.org/wiki/OpenGL_Shading_Language
 
 ## Other
 * CAD PLM integration - https://www.gerbertechnology.com/fr-fr/actualit%C3%A9/the-competitive-advantages-of-cad-plm-integration/
-
-* WebSphere Transformation Extender (Mercatur)
-* Scala
-
-
-
-* Shopify
-
-* GeoSpatial
-* OGC
-* WMS
-* WMTS
-* WFS
-* SOS
-
-* D3, PM2
-* GraphQL
-* Relay
-* Apollo
-
-* SOA microservices
-* task mgmt/queues Celery
-* OWASP Top Ten
-* Shiro
-* SQS
-* Sinatra
-* Sidekiq
-
-* Jamboard
-* ServiceWorkers
-* IndexedDB
-* LinQ for SQL (.NET query language)
-* SSRS reporting
-
-* Documaker
-
-* Scaled Agile Framework SAFe
-
-* ERP
-* Netsuite
-* Dynamics
-* SAP
-
-* OpenGL
-* Direct3D
-* GNM
-* Vulkan API
-* HLSL
-* Cg
-* GLSL
-* RAML
-
-* OpenAPI
-* OAS formerly Swagger
-* BECU
-* SOA
-* MVC3
+* WebSphere Transformation Extender (Mercatur) - https://www.ibm.com/software/integration/wdatastagetx/editions.html
+* Scala - https://www.scala-lang.org/
+* Shopify - https://www.shopify.com/
+* GraphQL - https://graphql.org/  
+https://en.wikipedia.org/wiki/GraphQL
+* Apollo - https://www.apollographql.com/
+* SOA/microservices - https://www.bmc.com/blogs/microservices-vs-soa-whats-difference/
+* RAML - https://en.wikipedia.org/wiki/RAML_(software)  
+https://raml.org/index.html
+* Documaker - https://www.oracle.com/applications/documaker/
+* Scaled Agile Framework SAFe - https://www.scaledagileframework.com/
+* ERP - https://en.wikipedia.org/wiki/Enterprise_resource_planning
+* Sinatra - https://en.wikipedia.org/wiki/Sinatra_(software)  
+http://sinatrarb.com/intro.html
+* Sidekiq - https://sidekiq.org/  
+https://en.wikipedia.org/wiki/Sidekiq
+* Jamboard - https://gsuite.google.com/products/jamboard/
+* ServiceWorkers - https://developers.google.com/web/fundamentals/primers/service-workers/
+* LinQ for SQL - https://msdn.microsoft.com/en-us/library/bb308959.aspx
+* SSRS reporting - https://en.wikipedia.org/wiki/SQL_Server_Reporting_Services
+* Netsuite - https://en.wikipedia.org/wiki/NetSuite
+* Dynamics - https://en.wikipedia.org/wiki/Microsoft_Dynamics
+* SAP - https://en.wikipedia.org/wiki/SAP_SE
+* OpenAPI - https://en.wikipedia.org/wiki/OpenAPI_Specification
+* MVC3 - https://docs.microsoft.com/en-us/aspnet/mvc/mvc3
