@@ -265,9 +265,9 @@ https://en.wikipedia.org/wiki/Apache_Hadoop
 * DSL - https://en.wikipedia.org/wiki/Digital_subscriber_line
 * Fiber - https://en.wikipedia.org/wiki/Fiber-optic_communication
 * WiFi - https://en.wikipedia.org/wiki/Wi-Fi
-* BlueTooth
-* ZigBee
-* Z-Wave
+* BlueTooth - https://en.wikipedia.org/wiki/Bluetooth
+* ZigBee - https://en.wikipedia.org/wiki/Zigbee
+* Z-Wave - https://en.wikipedia.org/wiki/Z-Wave
 
 ## Business Modeling
 * BPMN - https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation
