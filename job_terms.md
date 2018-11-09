@@ -1,5 +1,5 @@
 # Job Terms
-The following are a list of terms I gathered from Indeed job postings a la: https://news.ycombinator.com/item?id=16552016
+The following are a list of terms I gathered from Indeed software job postings a la: https://news.ycombinator.com/item?id=16552016
 
 ## Python
 * Flask - https://en.wikipedia.org/wiki/Flask_(web_framework)
@@ -26,6 +26,7 @@ The following are a list of terms I gathered from Indeed job postings a la: http
 * ElasticSearch - https://en.wikipedia.org/wiki/Elasticsearch
 * Logstash - https://www.elastic.co/products/logstash
 * Kibana - https://www.elastic.co/products/kibana
+* Redshift - https://aws.amazon.com/redshift/
 
 ## Search
 * SOLR - http://lucene.apache.org/solr/
@@ -217,19 +218,18 @@ https://acadgild.com/blog/what-is-docker-container-an-introduction
 https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/
 
 ## BigData/Clusters/Distributed Compute
-* Spark
-* Hive
-* Snowflake
-* RDS
-* Redshift
-* Boost
-* HDF-5
-* scipy
-* h5py
-* Hadoop
-* HDFS
-* HBase
-* Spark2
+* Spark/Spark2 - https://spark.apache.org/
+* Hive - https://hive.apache.org/
+* Snowflake - https://www.snowflake.com/
+* Boost - https://www.boost.org/users/
+* HDF-5 - https://support.hdfgroup.org/HDF5/whatishdf5.html
+* h5py - https://www.h5py.org/
+* scipy - https://www.scipy.org/  
+https://en.wikipedia.org/wiki/SciPy
+* Hadoop - https://hadoop.apache.org/  
+https://en.wikipedia.org/wiki/Apache_Hadoop
+* HDFS - https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html
+* HBase - https://en.wikipedia.org/wiki/Apache_HBase
 
 
 ## Business Intelligence
