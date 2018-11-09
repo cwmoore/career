@@ -6,10 +6,11 @@ The following are a list of terms I gathered from Indeed job postings a la: http
 * jinja2 - https://en.wikipedia.org/wiki/Jinja_(template_engine)
 * Django - https://www.djangoproject.com/
 
-## Job Queueing Software
+## Job Queueing/Streaming
 * RabbitMQ - https://en.wikipedia.org/wiki/RabbitMQ
 * ZeroMQ - https://en.wikipedia.org/wiki/ZeroMQ
 * Apache ActiveMQ - https://en.wikipedia.org/wiki/Apache_ActiveMQ
+* Kafka - https://en.wikipedia.org/wiki/Apache_Kafka
 
 ## Amazon
 * EC2 - Elastic Compute Cloud -  https://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud
@@ -206,6 +207,15 @@ https://www.baeldung.com/easymock
 * Jetty - https://en.wikipedia.org/wiki/Jetty_(web_server)
 * Resin - https://en.wikipedia.org/wiki/Resin_(software)
 
+## Containers
+* Heroku - https://www.heroku.com/  
+https://en.wikipedia.org/wiki/Heroku
+* Docker - https://www.docker.com/  
+https://en.wikipedia.org/wiki/Docker_(software)  
+https://acadgild.com/blog/what-is-docker-container-an-introduction
+* Kubernetes - https://en.wikipedia.org/wiki/Kubernetes  
+https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/
+
 ## BigData/Clusters/Distributed Compute
 * Spark
 * Hive
@@ -220,9 +230,6 @@ https://www.baeldung.com/easymock
 * HDFS
 * HBase
 * Spark2
-* Heroku
-* Docker
-* Kubernetes
 
 
 ## Business Intelligence
@@ -233,48 +240,73 @@ https://www.baeldung.com/easymock
 * MS SharePoint
 
 ## XML
-* SOAP/REST
-* XQuery/XPath, MarkLogic
+* SOAP
+* XQuery
+* XPath
+* MarkLogic
 
 ## Other
 CAD PLM integration
-SNMP, SSH, Telnet
-DOCSIS DSL Fiber WiFi
+
+SNMP
+SSH
+Telnet
+DOCSIS
+DSL
+Fiber
+WiFi
+
 BPMN 2.0 DMN CMMN
 Activiti workflow Bonitasoft
-WebSphere Transformation Extender Mercatur
+
+WebSphere Transformation Extender (Mercatur)
 Scala
+
 PDLC - product development lifecycle
 SDLC - software development lifecycle
 BPM
-Kafka
+
 Shopify
-BlueTooth ZigBee Z-Wave
-GeoSpatial OGC WMS WMTS WFS SOS
+
+BlueTooth
+ZigBee
+Z-Wave
+
+GeoSpatial
+OGC
+WMS
+WMTS
+WFS
+SOS
+
 D3, PM2
 GraphQL
 Relay
 Apollo
+
 SOA microservices
 task mgmt/queues Celery
 OWASP Top Ten
 Shiro
-Redis
 SQS
 Sinatra
 Sidekiq
-Apache Kafka
+
 Jamboard
 ServiceWorkers
 IndexedDB
 LinQ for SQL (.NET query language)
 SSRS reporting
+
 Documaker
+
 Scaled Agile Framework SAFe
+
 ERP
 Netsuite
 Dynamics
 SAP
+
 OpenGL
 Direct3D
 GNM
@@ -283,6 +315,7 @@ HLSL
 Cg
 GLSL
 RAML
+
 OpenAPI
 OAS formerly Swagger
 BECU
