@@ -30,15 +30,24 @@ The following are a list of terms I gathered from Indeed job postings a la: http
 * SOLR - http://lucene.apache.org/solr/
 * Lucene - https://en.wikipedia.org/wiki/Apache_Lucene
 
-## Encryption/Cryptography
+## Encryption/Cryptography/Security
 * PKI - https://en.wikipedia.org/wiki/Public_key_infrastructure
 * RSA - https://en.wikipedia.org/wiki/RSA_(cryptosystem)
 * ECC - https://en.wikipedia.org/wiki/Elliptic-curve_cryptography
 * PGP - https://en.wikipedia.org/wiki/Pretty_Good_Privacy
 * blockchain - https://en.wikipedia.org/wiki/Blockchain
-* ADAL - https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-authentication-libraries
 * OAuth token lifecycle - https://www.oauth.com/oauth2-servers/access-tokens/access-token-lifetime/
 * OpenID Connect - https://openid.net/connect/
+* policy-based security - http://ibmsystemsmag.com/ibmi/administrator/security/the-benefits-of-a-policy-based-security-approach/
+* UAC - https://en.wikipedia.org/wiki/User_Account_Control
+* FIPS compliance - https://en.wikipedia.org/wiki/FIPS_140-2
+* Single Sign-on - https://en.wikipedia.org/wiki/Single_sign-on
+* Active Directory - https://en.wikipedia.org/wiki/Active_Directory
+* ADAL - https://docs.microsoft.com/en-us/azure/active-directory/develop/active-directory-authentication-libraries
+* XSS
+* SQL Injection
+* CORS
+* CSRF
 
 ## Application Perfomance Management (APM)
 * Dynatrace - https://en.wikipedia.org/wiki/Dynatrace
@@ -124,6 +133,7 @@ https://git-scm.com/
 * Mercurial - https://en.wikipedia.org/wiki/Mercurial  
 https://www.mercurial-scm.org/
 
+
 ## Automated Testing/Monitoring/Etc.
 * Mocha - https://mochajs.org/
 * Jasmine - https://en.wikipedia.org/wiki/Jasmine_(JavaScript_testing_framework)  
@@ -138,11 +148,18 @@ https://www.baeldung.com/easymock
 * Selenium - https://www.seleniumhq.org/
 * Cucumber - https://cucumber.io/
 * JProbe - http://www.javaperformancetuning.com/tools/jprobe/
+* Mockito - https://en.wikipedia.org/wiki/Mockito
 
 ## Process
 * Rational Unified Process (RUP) - https://en.wikipedia.org/wiki/Rational_Unified_Process
+* Scrum
+* Kanban
+* Lean
+* Extreme Programming (XP)
+* Feature driven development (FDD)
 
 ## Java
+* Java EE - https://en.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition
 * JAX-WS - https://en.wikipedia.org/wiki/Java_API_for_XML_Web_Services
 * JAXB - https://en.wikipedia.org/wiki/Java_Architecture_for_XML_Binding
 * JPA - https://en.wikipedia.org/wiki/Java_Persistence_API
@@ -167,17 +184,26 @@ https://www.baeldung.com/easymock
 * JEE MVC session facade - https://www.oracle.com/technetwork/java/sessionfacade-141285.html
 * singleton - https://www.baeldung.com/java-singleton
 * DAO - https://en.wikipedia.org/wiki/Data_access_object
+* lambda syntax - https://www.geeksforgeeks.org/lambda-expressions-java-8/
+* streams - https://www.geeksforgeeks.org/stream-in-java/
+* JAX-RS RESTful - https://en.wikipedia.org/wiki/Java_API_for_RESTful_Web_Services
 
 ## IDEs
-* Eclipse
-* IntelliJ
+* https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments
+* https://en.wikipedia.org/wiki/Comparison_of_text_editors
+* Eclipse - https://en.wikipedia.org/wiki/Eclipse_(software)
+* IntelliJ - https://en.wikipedia.org/wiki/IntelliJ_IDEA
+* UltraEdit - https://en.wikipedia.org/wiki/UltraEdit
 
-## Servlet Containers
-* Tomcat
-* Glassfish
-* WebLogic
-* JBoss
-* Jetty
+## Servlet Containers/Servers
+* https://en.wikipedia.org/wiki/Comparison_of_web_server_software
+* Tomcat - https://en.wikipedia.org/wiki/Apache_Tomcat
+* Glassfish - https://en.wikipedia.org/wiki/GlassFish
+* WebLogic - https://en.wikipedia.org/wiki/Oracle_WebLogic_Server
+* JBoss - https://en.wikipedia.org/wiki/JBoss_Enterprise_Application_Platform
+* WildFly - https://en.wikipedia.org/wiki/WildFly
+* Jetty - https://en.wikipedia.org/wiki/Jetty_(web_server)
+* Resin - https://en.wikipedia.org/wiki/Resin_(software)
 
 ## BigData/Clusters/Distributed Compute
 * Spark
@@ -203,96 +229,61 @@ https://www.baeldung.com/easymock
 * Tableau
 * Oracle R
 * SAP Business Objects
+* MS SharePoint
 
 ## XML
 * SOAP/REST
 * XQuery/XPath, MarkLogic
 
 ## Other
-MS SharePoint
-
-policy-based security
-UAC FIPS compliance
-Single Sign-on tech Active Directory
 CAD PLM integration
-
-
 SNMP, SSH, Telnet
 DOCSIS DSL Fiber WiFi
-
 BPMN 2.0 DMN CMMN
 Activiti workflow Bonitasoft
-
-
 WebSphere Transformation Extender Mercatur
-SharePoint
-UltraEdit
-
-
 Scala
-
-
 PDLC - product development lifecycle
 SDLC - software development lifecycle
 BPM
-
 Kafka
-
 Shopify
-
-
-JAXB
-
 BlueTooth ZigBee Z-Wave
 GeoSpatial OGC WMS WMTS WFS SOS
-
 D3, PM2
-
-GraphQL Relay Apollo
-
-
+GraphQL
+Relay
+Apollo
 SOA microservices
-
 task mgmt/queues Celery
-
 OWASP Top Ten
-JAX-RS RESTful
 Shiro
-RabbitMQ Redis SQS
-Security XSS, SQL Injection, CORS, CSRF
-
-java lambda syntax, streams
-Junit Mockito
-
-Sinatra, Sidekiq, Apache Kafka
+Redis
+SQS
+Sinatra
+Sidekiq
+Apache Kafka
 Jamboard
-
-ServiceWorkers IndexedDB
-
-
+ServiceWorkers
+IndexedDB
 LinQ for SQL (.NET query language)
-
 SSRS reporting
-
-Scrum/Kanban/Lean/XP/Feature driven development FDD
-
-
 Documaker
-
-
 Scaled Agile Framework SAFe
-
-ERP Netsuite Dynamics SAP
-
-
-OpenGL Direct3D PS4 GNM Vulkan API
-HLSL Cg GLSL
-
-RAML OpenAPI OAS formerly Swagger
-
-
-
+ERP
+Netsuite
+Dynamics
+SAP
+OpenGL
+Direct3D
+GNM
+Vulkan API
+HLSL
+Cg
+GLSL
+RAML
+OpenAPI
+OAS formerly Swagger
 BECU
-
 SOA
 MVC3
