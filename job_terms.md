@@ -1,4 +1,4 @@
-# Job Terms
+# Job Description Terms
 *The following are a list of tech terms and explanatory links, loosely organized and in no particular order, I gathered from Indeed software job postings as inspired by:* https://news.ycombinator.com/item?id=16552016
 
 ## Python
