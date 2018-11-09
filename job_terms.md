@@ -1,5 +1,5 @@
 # Job Terms
-*The following are a list of tech terms, loosely organized and in no particular order, I gathered from Indeed software job postings as inspired by:* https://news.ycombinator.com/item?id=16552016
+*The following are a list of tech terms and explanatory links, loosely organized and in no particular order, I gathered from Indeed software job postings as inspired by:* https://news.ycombinator.com/item?id=16552016
 
 ## Python
 * Flask - https://en.wikipedia.org/wiki/Flask_(web_framework)
@@ -10,7 +10,7 @@
 * RabbitMQ - https://en.wikipedia.org/wiki/RabbitMQ
 * ZeroMQ - https://en.wikipedia.org/wiki/ZeroMQ
 * Apache ActiveMQ - https://en.wikipedia.org/wiki/Apache_ActiveMQ
-* Kafka - https://en.wikipedia.org/wiki/Apache_Kafka
+* Apache Kafka - https://en.wikipedia.org/wiki/Apache_Kafka
 
 ## Amazon
 * EC2 - Elastic Compute Cloud -  https://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud
@@ -248,79 +248,87 @@ https://en.wikipedia.org/wiki/Apache_Hadoop
 * XQuery - https://en.wikipedia.org/wiki/XQuery
 * XPath - https://en.wikipedia.org/wiki/XPath
 
+## Networks
+* SNMP - https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol
+* SSH - https://en.wikipedia.org/wiki/Secure_Shell
+* Telnet - https://en.wikipedia.org/wiki/Telnet
+* DOCSIS - https://en.wikipedia.org/wiki/DOCSIS
+* DSL - https://en.wikipedia.org/wiki/Digital_subscriber_line
+* Fiber - https://en.wikipedia.org/wiki/Fiber-optic_communication
+* WiFi - https://en.wikipedia.org/wiki/Wi-Fi
+* BlueTooth
+* ZigBee
+* Z-Wave
+
+## Business Modeling Notations
+* BPMN - https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation
+* DMN - https://en.wikipedia.org/wiki/Decision_Model_and_Notation
+* CMMN - https://en.wikipedia.org/wiki/CMMN
+* Activiti - https://www.activiti.org/  
+https://en.wikipedia.org/wiki/Activiti_(software)
+* Bonitasoft - https://www.bonitasoft.com/  
+https://en.wikipedia.org/wiki/Bonita_BPM
+* http://www.thoughtfulprogrammer.com/2010/05/tale-of-two-open-bpm-approaches.html
+* PDLC - product development lifecycle
+* SDLC - software development lifecycle
+* BPM
+
 ## Other
-CAD PLM integration
+* CAD PLM integration - https://www.gerbertechnology.com/fr-fr/actualit%C3%A9/the-competitive-advantages-of-cad-plm-integration/
 
-SNMP
-SSH
-Telnet
-DOCSIS
-DSL
-Fiber
-WiFi
+* WebSphere Transformation Extender (Mercatur)
+* Scala
 
-BPMN 2.0 DMN CMMN
-Activiti workflow Bonitasoft
 
-WebSphere Transformation Extender (Mercatur)
-Scala
 
-PDLC - product development lifecycle
-SDLC - software development lifecycle
-BPM
+* Shopify
 
-Shopify
+* GeoSpatial
+* OGC
+* WMS
+* WMTS
+* WFS
+* SOS
 
-BlueTooth
-ZigBee
-Z-Wave
+* D3, PM2
+* GraphQL
+* Relay
+* Apollo
 
-GeoSpatial
-OGC
-WMS
-WMTS
-WFS
-SOS
+* SOA microservices
+* task mgmt/queues Celery
+* OWASP Top Ten
+* Shiro
+* SQS
+* Sinatra
+* Sidekiq
 
-D3, PM2
-GraphQL
-Relay
-Apollo
+* Jamboard
+* ServiceWorkers
+* IndexedDB
+* LinQ for SQL (.NET query language)
+* SSRS reporting
 
-SOA microservices
-task mgmt/queues Celery
-OWASP Top Ten
-Shiro
-SQS
-Sinatra
-Sidekiq
+* Documaker
 
-Jamboard
-ServiceWorkers
-IndexedDB
-LinQ for SQL (.NET query language)
-SSRS reporting
+* Scaled Agile Framework SAFe
 
-Documaker
+* ERP
+* Netsuite
+* Dynamics
+* SAP
 
-Scaled Agile Framework SAFe
+* OpenGL
+* Direct3D
+* GNM
+* Vulkan API
+* HLSL
+* Cg
+* GLSL
+* RAML
 
-ERP
-Netsuite
-Dynamics
-SAP
-
-OpenGL
-Direct3D
-GNM
-Vulkan API
-HLSL
-Cg
-GLSL
-RAML
-
-OpenAPI
-OAS formerly Swagger
-BECU
-SOA
-MVC3
+* OpenAPI
+* OAS formerly Swagger
+* BECU
+* SOA
+* MVC3
