@@ -1,3 +1,6 @@
+# Job Terms
+The following are a list of terms I gathered from Indeed job postings a la: https://news.ycombinator.com/item?id=16552016
+
 ## Python
 * Flask - https://en.wikipedia.org/wiki/Flask_(web_framework)
 * jinja2 - https://en.wikipedia.org/wiki/Jinja_(template_engine)
