@@ -1,5 +1,5 @@
 # Job Description Terms
-*The following are a list of tech terms and explanatory links, loosely organized and in no particular order, I gathered from Indeed software job postings as inspired by:* https://news.ycombinator.com/item?id=16552016
+*The following are a list of tech terms and explanatory links, loosely organized and in no particular order, that I gathered from Indeed software job postings, as inspired by:* https://news.ycombinator.com/item?id=16552016
 
 ## Python
 * Flask - https://en.wikipedia.org/wiki/Flask_(web_framework)
