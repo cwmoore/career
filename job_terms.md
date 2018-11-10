@@ -128,9 +128,15 @@
 * Memcache - https://en.wikipedia.org/wiki/Memcached
 
 ## Machine Learning
-* MXNet - https://mxnet.apache.org/
-* TensorFlow - https://en.wikipedia.org/wiki/TensorFlow
-* Keras - https://keras.io/
+* MXNet
+    * Deep-learning library.
+    * https://mxnet.apache.org/
+* TensorFlow
+    * Symbolic math library used for machine learning and neural networks.
+    * https://en.wikipedia.org/wiki/TensorFlow
+* Keras
+    * High-level neural networks API.
+    * https://keras.io/
 
 ## Web UI
 * Bootstrap or Foundations - https://www.upwork.com/hiring/development/bootstrap-vs-foundation-which-framework-is-right-for-you/
@@ -164,14 +170,14 @@ https://en.wikipedia.org/wiki/Webpack
 * Chef - https://en.wikipedia.org/wiki/Chef_(software)
 
 ## IDEs
-* https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments
-* https://en.wikipedia.org/wiki/Comparison_of_text_editors
+https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments
+https://en.wikipedia.org/wiki/Comparison_of_text_editors
 * Eclipse - https://en.wikipedia.org/wiki/Eclipse_(software)
 * IntelliJ - https://en.wikipedia.org/wiki/IntelliJ_IDEA
 * UltraEdit - https://en.wikipedia.org/wiki/UltraEdit
 
 ## Servlet Containers/Servers
-* https://en.wikipedia.org/wiki/Comparison_of_web_server_software
+https://en.wikipedia.org/wiki/Comparison_of_web_server_software
 * Tomcat - https://en.wikipedia.org/wiki/Apache_Tomcat
 * Glassfish - https://en.wikipedia.org/wiki/GlassFish
 * WebLogic - https://en.wikipedia.org/wiki/Oracle_WebLogic_Server
@@ -181,39 +187,52 @@ https://en.wikipedia.org/wiki/Webpack
 * Resin - https://en.wikipedia.org/wiki/Resin_(software)
 
 ## Containers
-* Heroku - https://www.heroku.com/  
-https://en.wikipedia.org/wiki/Heroku
-* Docker - https://www.docker.com/  
-https://en.wikipedia.org/wiki/Docker_(software)  
-https://acadgild.com/blog/what-is-docker-container-an-introduction
-* Kubernetes - https://en.wikipedia.org/wiki/Kubernetes  
-https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/
+* Docker
+    * App containers.
+    * https://www.docker.com/  
+    * https://en.wikipedia.org/wiki/Docker_(software)  
+    * https://acadgild.com/blog/what-is-docker-container-an-introduction
+* Kubernetes
+    * Container orchesttration.
+    * https://en.wikipedia.org/wiki/Kubernetes  
+    * https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/
 
 
 ## Platforms
-* Firebase - https://firebase.google.com/
+* Firebase
+    * Google's mobile app development platform.
+    * https://firebase.google.com/
+* Heroku
+    * Managed cloud containers and ecosystem.
+    * https://www.heroku.com/  
+    * https://en.wikipedia.org/wiki/Heroku
 
 ## Version Control Systems
 https://en.wikipedia.org/wiki/Comparison_of_version_control_software
-* git - https://en.wikipedia.org/wiki/Git  
-https://git-scm.com/
+* git
+    * Open-source distributed version control system.
+    * https://en.wikipedia.org/wiki/Git  
+    * https://git-scm.com/
 * Subversion - https://en.wikipedia.org/wiki/Apache_Subversion
 * Nexus - https://www.sonatype.com/nexus-repository-sonatype
-* Mercurial - https://en.wikipedia.org/wiki/Mercurial  
-https://www.mercurial-scm.org/
+* Mercurial
+    * https://en.wikipedia.org/wiki/Mercurial  
+    * https://www.mercurial-scm.org/
 
 
 ## Automated Testing/Monitoring/Etc.
 * Mocha - https://mochajs.org/
-* Jasmine - https://en.wikipedia.org/wiki/Jasmine_(JavaScript_testing_framework)  
-https://github.com/jasmine/jasmine
+* Jasmine -
+    * https://en.wikipedia.org/wiki/Jasmine_(JavaScript_testing_framework)  
+    * https://github.com/jasmine/jasmine
 * Karma - http://karma-runner.github.io/3.0/intro/how-it-works.html
 * Grafana - https://grafana.com/
 * Jest - https://jestjs.io/
 * Enzyme - https://github.com/airbnb/enzyme
 * Junit - https://junit.org/junit5/
-* EasyMock - http://easymock.org/  
-https://www.baeldung.com/easymock
+* EasyMock
+    * http://easymock.org/  
+    * https://www.baeldung.com/easymock
 * Selenium - https://www.seleniumhq.org/
 * Cucumber - https://cucumber.io/
 * JProbe - http://www.javaperformancetuning.com/tools/jprobe/
