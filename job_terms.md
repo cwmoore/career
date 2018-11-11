@@ -125,7 +125,6 @@
 * Kibana - https://www.elastic.co/products/kibana
 * Redshift - https://aws.amazon.com/redshift/
 * SQS - https://en.wikipedia.org/wiki/Amazon_Simple_Queue_Service
-* Memcache - https://en.wikipedia.org/wiki/Memcached
 
 ## Machine Learning
 * MXNet
@@ -139,10 +138,18 @@
     * https://keras.io/
 
 ## Web UI
-* Bootstrap or Foundations - https://www.upwork.com/hiring/development/bootstrap-vs-foundation-which-framework-is-right-for-you/
-* Handlebars - https://handlebarsjs.com/
-* Moustache - https://mustache.github.io/
-* SASS/LESS - https://www.keycdn.com/blog/sass-vs-less
+* Bootstrap or Foundations
+    * Front-end frameworks (HTML, CSS, JS)
+    * https://www.upwork.com/hiring/development/bootstrap-vs-foundation-which-framework-is-right-for-you/
+* Handlebars
+    * Templating system.
+    * https://handlebarsjs.com/
+* Moustache
+    * Templating system.
+    * https://mustache.github.io/
+* SASS/LESS
+    * CSS pre-processors.
+    * https://www.keycdn.com/blog/sass-vs-less
 
 
 ## Build/CI/CD/Config
@@ -150,12 +157,22 @@
 https://en.wikipedia.org/wiki/List_of_build_automation_software  
 https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software  
 https://about.gitlab.com/devops-tools/
-* Maven - https://maven.apache.org/
-* Ant - https://ant.apache.org/  
-https://github.com/apache/ant-antlibs-common
-* Gradle - https://en.wikipedia.org/wiki/Gradle
-* Jenkins - https://en.wikipedia.org/wiki/Jenkins_(software)
-* Grunt - https://en.wikipedia.org/wiki/Grunt_(software)
+* Maven
+    * Manage build, reporting, and documentation.
+    * https://maven.apache.org/
+* Ant
+    * Compile, assemble, test, and run applications.
+    * https://ant.apache.org/  
+    * https://github.com/apache/ant-antlibs-common
+* Gradle
+    * Build tool using Groovy-based DSL.
+    * https://en.wikipedia.org/wiki/Gradle
+* Jenkins
+    * Open source automation server for CI and CD.
+    * https://en.wikipedia.org/wiki/Jenkins_(software)
+* Grunt
+    * JavaScript task runner w/plugins.
+    * https://en.wikipedia.org/wiki/Grunt_(software)
 * Bamboo - https://en.wikipedia.org/wiki/Bamboo_(software)
 * Buildbot - https://buildbot.net/
 * Gulp - https://en.wikipedia.org/wiki/Gulp.js
@@ -252,12 +269,13 @@ https://en.wikipedia.org/wiki/Comparison_of_version_control_software
 ## Project Management
 * JIRA/Confluence - https://www.atlassian.com/software/confluence/jira-integration
 
-## Job Queueing/Streaming
+## Job Queueing/Streaming/Throughput
 * RabbitMQ - https://en.wikipedia.org/wiki/RabbitMQ
 * ZeroMQ - https://en.wikipedia.org/wiki/ZeroMQ
 * Apache ActiveMQ - https://en.wikipedia.org/wiki/Apache_ActiveMQ
 * Apache Kafka - https://en.wikipedia.org/wiki/Apache_Kafka
 * Celery - http://www.celeryproject.org/
+* Memcache - https://en.wikipedia.org/wiki/Memcached
 
 ## Search
 * SOLR - http://lucene.apache.org/solr/
