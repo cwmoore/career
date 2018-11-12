@@ -173,12 +173,22 @@ https://about.gitlab.com/devops-tools/
 * Grunt
     * JavaScript task runner w/plugins.
     * https://en.wikipedia.org/wiki/Grunt_(software)
-* Bamboo - https://en.wikipedia.org/wiki/Bamboo_(software)
-* Buildbot - https://buildbot.net/
-* Gulp - https://en.wikipedia.org/wiki/Gulp.js
-* Brunch - https://brunch.io/
-* WebPack - https://webpack.js.org/  
-https://en.wikipedia.org/wiki/Webpack
+* Bamboo
+    * CI/CD server by Atlassian.
+    * https://en.wikipedia.org/wiki/Bamboo_(software)
+* Buildbot
+    * CI framework in Python.
+    * https://buildbot.net/
+* Gulp
+    * Taskrunner for JavaScript web development automation.
+    * https://en.wikipedia.org/wiki/Gulp.js
+* Brunch
+    * Compact config build automation.
+    * https://brunch.io/
+* WebPack
+    * Web application module bundler.
+    * https://webpack.js.org/  
+    * https://en.wikipedia.org/wiki/Webpack
 * Babel - https://babeljs.io/
 * Travis CI - https://en.wikipedia.org/wiki/Travis_CI
 * GitLab - https://about.gitlab.com/
