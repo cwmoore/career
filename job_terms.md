@@ -81,7 +81,7 @@
 * Spring Security - https://en.wikipedia.org/wiki/Spring_Security
 * Spring Web Services - https://spring.io/projects/spring-ws
 * SLF4J
-    * Simple Looging Facades for Java
+    * Simple Logging Facades for Java
     * https://www.slf4j.org/
 * Spring Batch - https://en.wikipedia.org/wiki/Spring_Batch
 * Spring MVC - https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html
