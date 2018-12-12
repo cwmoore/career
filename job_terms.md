@@ -69,7 +69,9 @@
     * https://d3js.org/
 
 ## Java
-* Java EE - https://en.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition
+* Java EE
+    * Enterprise Java Platform
+    * https://en.wikipedia.org/wiki/Java_Platform,_Enterprise_Edition
 * JAX-WS - https://en.wikipedia.org/wiki/Java_API_for_XML_Web_Services
 * JAXB - https://en.wikipedia.org/wiki/Java_Architecture_for_XML_Binding
 * JPA - https://en.wikipedia.org/wiki/Java_Persistence_API
@@ -78,7 +80,9 @@
 * Spring Framework/Core - https://en.wikipedia.org/wiki/Spring_Framework
 * Spring Security - https://en.wikipedia.org/wiki/Spring_Security
 * Spring Web Services - https://spring.io/projects/spring-ws
-* SLF4J - https://www.slf4j.org/
+* SLF4J
+    * Simple Looging Facades for Java
+    * https://www.slf4j.org/
 * Spring Batch - https://en.wikipedia.org/wiki/Spring_Batch
 * Spring MVC - https://docs.spring.io/spring/docs/current/spring-framework-reference/web.html
 * Hibernate - https://en.wikipedia.org/wiki/Hibernate_(framework)
@@ -110,7 +114,9 @@
 * IndexedDB - https://developers.google.com/web/ilt/pwa/working-with-indexeddb
 
 ## Amazon
-* EC2 - Elastic Compute Cloud -  https://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud
+* EC2 - Elastic Compute Cloud
+    * Scalable compute instances
+    * https://en.wikipedia.org/wiki/Amazon_Elastic_Compute_Cloud
 * S3 - Simple Storage Service - https://en.wikipedia.org/wiki/Amazon_S3
 * Cloudfront - https://en.wikipedia.org/wiki/Amazon_CloudFront
 * Cloudwatch - https://aws.amazon.com/cloudwatch/
