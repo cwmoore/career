@@ -1,5 +1,8 @@
 # Job Description Terms
+(Not entirely complete...)
 *The following are a list of tech terms and explanatory links, loosely organized and in no particular order, that I gathered from Indeed software job postings, exploring the software development zeitgeist as inspired by:* https://news.ycombinator.com/item?id=16552016
+
+### *Available as sql create table and data* https://github.com/cwmoore/career/edit/master/job_terms.sql
 
 ## Python
 * Flask
