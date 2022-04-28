@@ -1,5 +1,8 @@
 <?php
 
+/**
+ * Extract URLs from CommonCrawl index results
+ */
 function extractUrlsFromCommonCrawlIndexResults($cc_filename)
 {
     $contents = file_get_contents($cc_filename);
@@ -13,7 +16,9 @@ function extractUrlsFromCommonCrawlIndexResults($cc_filename)
     }
 }
 
-// given some $raw_html, return the viewable text
+/**
+ * Given some raw HTML, return the viewable text
+ */
 function extractTextFromHTML($raw_html)
 {
     // strip code elements away from text adapted from https://stackoverflow.com/a/48417432/6254147
@@ -38,7 +43,9 @@ function extractTextFromHTML($raw_html)
     );
 }
 
-// update a row with $text_only extracted from $raw_content
+/**
+ * update a row with text extracted from raw HTML content
+ */
 function updateTextOnly($mysqli, $id, $raw_content)
 {
     $text_only = extractTextFromHTML($raw_content);
@@ -51,7 +58,10 @@ function updateTextOnly($mysqli, $id, $raw_content)
 }
 
 
-// download url resource and add content/text to DB
+/**
+ * Download content from url and add content/text to database
+ *
+ */
 function updateWithDownload($mysqli, $id, $url)
 {
     // https://stackoverflow.com/a/38720392/6254147
@@ -78,32 +88,33 @@ extractUrlsFromCommonCrawlIndexResults('cc-tutorialspoint.com.json');
 
 exit;
 
+
+
+
+
+// connect to database
 $mysqli = mysqli_connect('localhost', 'root', 'student')
     or die('Could not connect');
 $mysqli->select_db('terms');
 
+
+// query database for all job terms
 $sql_all_job_terms = "SELECT * FROM job_terms WHERE visited IS NOT NULL";
 $res = $mysqli->query($sql_all_job_terms)
     or die('failed with '. $sql_all_job_terms . "\n" . $mysqli->error . "\n");
 
 
 // this loop attempts to extract text from raw webpage content and update the row data
-    while ($ret = $res->fetch_assoc())
-    {
-        $id = $ret['id'];
-        $raw_content = $ret['raw_content'];
-        updateTextOnly($mysqli, $id, $raw_content);
-    }
-    exit;
+while ($ret = $res->fetch_assoc())
+{
+    $id = $ret['id'];
+    $raw_content = $ret['raw_content'];
+    updateTextOnly($mysqli, $id, $raw_content);
+}
+exit;
 
 
-
-
-
-
-
-// the following loop downloads resources at urls from db
-
+// the following loop downloads resources at the URLs from the database
 $visited_domains = [];
 while ($ret = $res->fetch_assoc())
 {
