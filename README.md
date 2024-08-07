@@ -1,7 +1,9 @@
-# Career Search keyterm script
+# Career Search Keyterms
+### Script & Data
 
-Keyterms related to programming job search, descriptions and reference links. [job_terms.md](job_terms.md)
+Data: Keyterms related to programming job search, descriptions and reference links: [job_terms.md](job_terms.md)
 
-Extract terms from job postings and find references. [job_terms_download.php](job_terms_download.php)
+Data: Populate a database with job terms: [job_terms.sql](job_terms.sql)
 
-Populate a database with job terms. [job_terms.sql](job_terms.sql)
+Script: Extract terms from job postings and find references: [job_terms_download.php](job_terms_download.php)
+
